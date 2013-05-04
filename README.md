@@ -1,6 +1,6 @@
 #WebTypo
 
-### Legible fonts for modern web typography. 
+## Legible fonts for modern web typography. 
  
 Yet another web typography & font pairing, combination with Google Web Fonts. 
 
