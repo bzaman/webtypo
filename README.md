@@ -4,7 +4,7 @@
  
 Yet another web typography & font pairing, combination with Google Web Fonts. 
 
-#### Resources
+### Resources
 
 * [Typekit](https://typekit.com/)
 * [Google Fonts](http://www.google.com/fonts/)
