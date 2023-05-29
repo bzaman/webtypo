@@ -13,6 +13,7 @@ Web typography & font pairing, combination with Google Web Fonts.
 * [Typeplate](http://typeplate.com/)
 * [Modularscale](http://modularscale.com/)
 * [Typophile](http://typophile.com/)
+* [Typejokeys](https://typejockeys.com/)
 
 
 ### Article 
